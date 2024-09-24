@@ -11,7 +11,7 @@ int main() {
 	switch(opcao)
 	{
 		case 'a':
-		case 'e':
+		case 'e':	
 		case 'i':
 		case 'o':
 		case 'u':
